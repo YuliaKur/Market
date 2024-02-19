@@ -1,0 +1,25 @@
+:root {
+	--container-width: 1184px;
+	// 32px+32px+1120px размер контейнера = 1184
+	--container-padding: 32px;
+
+	--font-main: 'Inter', sans-serif;
+	--font-accent: 'Poppins', sans-serif;
+	--fond-nav: 'Space Grotesk', serif;
+
+	--page-bg: #fff;
+	--text-color: #000;
+	--accent: #FFC95C;
+	--tagline-link: #FFAB00;
+
+    --laptop-size: 1199px;
+	--tablet-size: 959px;
+	--mobile-size: 599px;
+
+
+}
+
+.dark {
+    --page-bg: #252526;
+    --text-color: #fff;
+}
